@@ -1,1 +1,5 @@
 # SNHU-
+
+The client for this project was a video game company. They were looking to expand their popular computer game to be a cross platform experience. The playstyle would be similary to Draw It or Pictionary. 
+During this project I was able to touch up the code to where it was a functional program. Another important aspect was being able to provide details and information to help the client make a desicion on platforms and softwares. Specifically, where they can host their servers, and how the best organization of security should be. 
+The process that I used to work through the project, and my documents was relatively simple, I followed through the instructions and the guidlines as the company had sent me. The recommendations were based on that as well. In terms of designing, I had to work to get it to be able to run smoothly while storing images in its temporary memory. Also to be able to connect players over diverse platforms. By the end of this project, and the code was edited. We did recommend that they do the server hosting on a Windows computer.
